@@ -15,12 +15,12 @@ layout: default
         </time>
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
-      </time>  
+      </time>
       {%- endif -%}
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            <span class="p-author h-card" itemprop="name">{{ Samantha Huckabay }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
