@@ -4,6 +4,4 @@ title: CSCI 340
 permalink: /CSCI340/
 ---
 
-
-
-[CSCI 340 Homepage](https://hendrix-cs.github.io/csci340/)
+Here is the link to the [CSCI 340 Homepage](https://hendrix-cs.github.io/csci340/).
