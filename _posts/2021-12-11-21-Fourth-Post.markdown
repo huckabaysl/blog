@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Lab Nine Post"
+date:   2021-12-11 -0500
+categories: jekyll update
+---
+
+For Lab 9, we divided the responsibilities for the tutorial to create the remote hosting trait of the website. First, Zoie would create production SQL database, I would deploy the app to Azure & Jaylen would update locally and redeploy. Zoie went through the fist part of the lab but ran into some difficulties. The configure a server firewall step is where we couldn't continue, which ended up being a problem for several other project groups in the class when confronted with Lab 9. Overall, I would like to have completed this lab, both because it was my main role in the project and because we would have been able to host the website remotely. 
